@@ -2,7 +2,7 @@
 SSD
 
 
-Class ID:  
+Class ID:  Cottonee
 
 SRS ID: CST116SRS06  
 
@@ -30,8 +30,7 @@ If you have 4 students, you will need to arrange yourselves into a square. The p
 
 Your assignment is to learn how to create code for others to use and how to use other people's code in your own project. Working with others is often a challenge especially when you haven't worked with them previously. If you know one of your partners from outside the class, you'll need to choose a different partner.  
 
-You will create a function that calculates the "Sample Standard Deviation" on an array of N ints where the value of N is 25 - strlen(your middle name). If you don't have a middle name, strlen will return 0.  
-
+You will create a function that calculates the "Sample Standard Deviation" on an array of N ints where the value of N is 25 - strlen(your middle name). If you don't have a middle name, strlen will return 0.
 You will need to create an array of random int values you will place into an array in code. DO NOT enter the values through std::cin.  
 
 You will give your function to your right partner and your data to your left partner.  
