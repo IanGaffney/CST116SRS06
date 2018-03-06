@@ -26,10 +26,7 @@
     <ClCompile Include="stdafx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="CST116SRS06.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="IanStdDev.cpp">
+    <ClCompile Include="SSD.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

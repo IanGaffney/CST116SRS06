@@ -2,7 +2,7 @@
 #include <iostream>
 #include "IansStdDev.h"
 
-double iansStdDev(size_t size, int someArray[])
+double iansStdDev(const size_t size, const int someArray[])
 {
 	// calculate mean
 	double mean1{};
@@ -21,7 +21,7 @@ double iansStdDev(size_t size, int someArray[])
 		mean2 += (val*val);
 	}
 	// mean of the squares
-	mean2 /= size;
+	mean2 /= size-1;
 
 	// return the square root of mean2 (or the standard deviation)
 	return sqrt(mean2);

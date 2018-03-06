@@ -20,9 +20,9 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{2F1E6A9A-AFBB-4EA6-B492-E5440CC28AFF}</ProjectGuid>
+    <ProjectGuid>{1F48B9DB-C8A0-44D0-A389-FEAC4336CD57}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>CST116SRS06</RootNamespace>
+    <RootNamespace>SSD</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -151,8 +151,7 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="CST116SRS06.cpp" />
-    <ClCompile Include="IanStdDev.cpp" />
+    <ClCompile Include="SSD.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
