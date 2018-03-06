@@ -1,5 +1,5 @@
 #include "stdafx.h"
-#include <iostream>
+#include <cmath>
 #include "IansStdDev.h"
 
 double iansStdDev(const size_t size, const int someArray[])

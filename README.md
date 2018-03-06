@@ -10,9 +10,9 @@ Unresolved Issues:
 
 Notes:  
 
-Partner Left:  
+Partner Left:  Patrick McDaniel
 
-Partner Right:  
+Partner Right:  Daren
 
 ---
 

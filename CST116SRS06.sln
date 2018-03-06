@@ -3,12 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2024
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CST116SRS06", "CST116SRS06\CST116SRS06.vcxproj", "{2F1E6A9A-AFBB-4EA6-B492-E5440CC28AFF}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{416E3CE2-E7BF-48C0-8B7C-4D82F8C8386F}"
 	ProjectSection(SolutionItems) = preProject
 		README.md = README.md
 	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SSD", "SSD\SSD.vcxproj", "{1F48B9DB-C8A0-44D0-A389-FEAC4336CD57}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,14 +18,14 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2F1E6A9A-AFBB-4EA6-B492-E5440CC28AFF}.Debug|x64.ActiveCfg = Debug|x64
-		{2F1E6A9A-AFBB-4EA6-B492-E5440CC28AFF}.Debug|x64.Build.0 = Debug|x64
-		{2F1E6A9A-AFBB-4EA6-B492-E5440CC28AFF}.Debug|x86.ActiveCfg = Debug|Win32
-		{2F1E6A9A-AFBB-4EA6-B492-E5440CC28AFF}.Debug|x86.Build.0 = Debug|Win32
-		{2F1E6A9A-AFBB-4EA6-B492-E5440CC28AFF}.Release|x64.ActiveCfg = Release|x64
-		{2F1E6A9A-AFBB-4EA6-B492-E5440CC28AFF}.Release|x64.Build.0 = Release|x64
-		{2F1E6A9A-AFBB-4EA6-B492-E5440CC28AFF}.Release|x86.ActiveCfg = Release|Win32
-		{2F1E6A9A-AFBB-4EA6-B492-E5440CC28AFF}.Release|x86.Build.0 = Release|Win32
+		{1F48B9DB-C8A0-44D0-A389-FEAC4336CD57}.Debug|x64.ActiveCfg = Debug|x64
+		{1F48B9DB-C8A0-44D0-A389-FEAC4336CD57}.Debug|x64.Build.0 = Debug|x64
+		{1F48B9DB-C8A0-44D0-A389-FEAC4336CD57}.Debug|x86.ActiveCfg = Debug|Win32
+		{1F48B9DB-C8A0-44D0-A389-FEAC4336CD57}.Debug|x86.Build.0 = Debug|Win32
+		{1F48B9DB-C8A0-44D0-A389-FEAC4336CD57}.Release|x64.ActiveCfg = Release|x64
+		{1F48B9DB-C8A0-44D0-A389-FEAC4336CD57}.Release|x64.Build.0 = Release|x64
+		{1F48B9DB-C8A0-44D0-A389-FEAC4336CD57}.Release|x86.ActiveCfg = Release|Win32
+		{1F48B9DB-C8A0-44D0-A389-FEAC4336CD57}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

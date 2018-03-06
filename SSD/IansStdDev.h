@@ -1,3 +1,3 @@
 #pragma once
 
-double iansStdDev(size_t size, int someArray[]);
+double iansStdDev(const size_t size, const int someArray[]);
