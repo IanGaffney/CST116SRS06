@@ -10,9 +10,9 @@ Unresolved Issues:
 
 Notes:  
 
-Partner Left:  Patrick McDaniel
+Partner Left:  Feebas
 
-Partner Right:  Daren Fernandez
+Partner Right: Ferroseed
 
 ---
 
