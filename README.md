@@ -12,7 +12,7 @@ Notes:
 
 Partner Left:  Patrick McDaniel
 
-Partner Right:  Daren
+Partner Right:  Daren Fernandez
 
 ---
 
