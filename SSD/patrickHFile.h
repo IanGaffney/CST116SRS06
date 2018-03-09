@@ -1,2 +1,2 @@
 #pragma once
-double ssd(int incomingArray[], const int arraySize);
+double ssd(const int arraySize, const int incomingArray[]);
